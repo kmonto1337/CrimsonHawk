@@ -1,3 +1,5 @@
+# Pwnable Inc. core service for the infosec community, contact us at dontfindmeplz.com
+
 import os
 import random
 import re
