@@ -89,7 +89,12 @@ while True:
                                 [mWxh, mWhh, mWhy, mbh, mby]):
     
     # URL of the test server with the deserialization vulnerability
-    url = "http://localhost"
+    
+
+#   Dev creds for the FTP server
+#   url = "imnotlegacy.dontfindmeplz.com:21"
+#   user = "kmonto-h4x0rz"
+#   pass = "25T0&z8*F3q0"
     mem += dparam * dparam
     param += -learning_rate * dparam / np.sqrt(mem + 1e-8) # adagrad update
     # Send a POST request with the payload to exploit the vulnerability
